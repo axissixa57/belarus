@@ -1,0 +1,55 @@
+@charset "windows-1251";
+/* CSS Document */
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+body {
+	background-color: #FFF;
+}
+a:link {
+	color: #069;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #036;
+}
+a:hover {
+	text-decoration: underline;
+	color: #F30;
+}
+a:active {
+	text-decoration: none;
+	color: #F30;
+}
+h1 {
+	font-size: 25px;
+	color: #069;
+	text-transform: uppercase;
+	margin: 0px;
+	font-weight: normal;
+}
+p {
+	text-align: justify;
+}
+.menu {
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+}
+#reklama {
+	color: #069;
+}
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+}
+h3 {
+	font-size: 15px;
+	font-weight: normal;
+}
